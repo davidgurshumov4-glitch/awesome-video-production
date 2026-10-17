@@ -1,4 +1,0 @@
-README.md linguist-detectable
-makefile -linguist-detectable
-flake.nix -linguist-detectable
-.envrc -linguist-detectable
